@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-tax-management
+description: "BIAN Service Domain: Tax Management (Process pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Finance"
+  bian/asset-type: "Corporate Tax Record"
+  bian/control-record: "Corporate Tax Record Procedure"
